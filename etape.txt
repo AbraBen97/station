@@ -1,0 +1,5 @@
+cree un environement virtuel 
+activer l'environement 
+
+pip install streamlit pandas plotly openpyxl
+streamlit run app.py
